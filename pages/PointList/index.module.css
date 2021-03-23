@@ -1,0 +1,197 @@
+.pageContainer {
+  align-items: center;
+  background-color: #f0f2f5;
+  height: 100vh;
+}
+
+.pltopTitlePane{
+  margin-top: 40rpx;
+  width: 690rpx;
+  height: 37rpx;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.pltopTitleText{
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #666666;
+  line-height: 37rpx;
+}
+
+.pltopTitleCount{
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #D0021B;
+  line-height: 37rpx;
+}
+
+.plitemPane{
+  margin-top: 29rpx;
+  margin-left: 30rpx;
+  width: 690rpx;
+  height: 200rpx;
+  background: #FFFFFF;
+  border-radius: 14rpx;
+}
+
+.plitemTitlePane{
+  margin-top: 16rpx;
+  margin-left: 35rpx;
+  width: 635rpx;
+  height: 37rpx;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.plitemTitleIcon{
+  margin-right: 20rpx;
+  background-color: #25292C;
+  width: 20rpx;
+  height: 20rpx;
+  margin-top: 10rpx;
+}
+.plitemStatus
+{
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 37rpx;
+  text-align: left;
+}
+.plitemDestail{
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #6659B0;
+  text-align: right;
+  line-height: 37rpx;
+
+}
+.plitemLine{
+  margin-top: 16rpx;
+  margin-left: 33rpx;
+  width: 657rpx;
+  height: 3rpx;
+  background-color: #E3E3E3;
+}
+.plbottomPane{
+  margin-left: 33rpx;
+  width: 657rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  justify-items: left;
+  align-items: left;
+}
+.plbottomStatusPane{
+  margin-top: 30rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  justify-items: left;
+  align-items: left;
+}
+
+.plbottomStatusLine{
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  width: 102rpx;
+  height: 3rpx;
+  background-color: #979797;
+}
+
+.plbottomStatusText{
+  width: 150rpx;
+  height: 42rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  color: #25292C;
+  line-height: 42rpx;
+}
+
+.plbottomStatusTextGray{
+  width: 150rpx;
+  height: 42rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 42rpx;
+}
+
+.plbottomStatusTextGreen{
+  width: 150rpx;
+  height: 42rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  color: #1AAD17;
+  line-height: 42rpx;
+}
+
+.plbottomStatusTextRed{
+  width: 150rpx;
+  height: 42rpx;
+  font-size: 30rpx;
+  font-weight: 400;
+  color: #F05282;
+  line-height: 42rpx;
+}
+
+.plbottomTimePane{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-items: left;
+  align-items: left;
+  width: 540rpx;
+  text-align: left;
+}
+
+.plbottomTimeTextPane{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-items: left;
+  align-items: left;
+  width: 400rpx;
+  text-align: left;
+}
+
+.plbottomTimeText{
+  height: 30rpx;
+  font-size: 22rpx;
+  line-height: 30rpx;
+  font-weight: 400;
+  color: #25292C;
+}
+
+.plbottomTimeTextGray{
+  height: 30rpx;
+  font-size: 22rpx;
+  line-height: 30rpx;
+  font-weight: 400;
+  color: #999999;
+}
+
+.plbottomTimeTextGreen{
+  height: 30rpx;
+  font-size: 22rpx;
+  line-height: 30rpx;
+  font-weight: 400;
+  color: #1AAD17;
+}
+
+.plbottomTimeTextRed{
+  height: 30rpx;
+  font-size: 22rpx;
+  line-height: 30rpx;
+  font-weight: 400;
+  color: #F05282;
+   text-align: left;
+}

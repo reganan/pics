@@ -1,0 +1,122 @@
+.pageContainer {
+  align-items: center;
+  background-color: #f2f2f2;
+  height: 100vh;
+}
+
+.pointTitlePane {
+  width: 690rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pointTitlePaneTextL {
+  margin-top: 20rpx;
+  width: 690rpx;
+  text-align: left;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 40rpx;
+}
+.pointTitlePaneTextRBlack {
+  margin-top: 20rpx;
+  width: 690rpx;
+  text-align: right;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #000000;
+  line-height: 40rpx;
+}
+
+.pointTitlePaneTextRGreen {
+  margin-top: 20rpx;
+  width: 690rpx;
+  text-align: right;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #1aad17;
+  line-height: 40rpx;
+}
+
+.pointTitlePaneTextRRed {
+  margin-top: 20rpx;
+  width: 690rpx;
+  text-align: right;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #f05282;
+  line-height: 40rpx;
+}
+
+.pointReasonPane {
+  margin-top: 20rpx;
+  width: 690rpx;
+  height: 269rpx;
+  background: #ffffff;
+  border-radius: 14rpx;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.pointReasonScrollerPane {
+  width: 620rpx;
+  height: 202rpx;
+}
+
+.pointReasonText {
+  width: 620rpx;
+  height: 202rpx;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #000000;
+  line-height: 40rpx;
+}
+
+.pointLine {
+  margin-top: 20rpx;
+  width: 100%;
+  height: 2rpx;
+  background-color: #e3e3e3;
+}
+.pointBottomPaneText {
+  margin-top: 20rpx;
+  width: 690rpx;
+  text-align: left;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 40rpx;
+}
+.pointBottomPane {
+  margin-top: 20rpx;
+  width: 690rpx;
+  height: 400rpx;
+  background: #ffffff;
+  border-radius: 14rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.itemImage {
+  width: 588rpx;
+  height: 400rpx;
+}
+
+.pointBottomBtn {
+  position: fixed;
+  bottom: 0;
+  width: 750rpx;
+  height: 98rpx;
+  line-height: 98rpx;
+  background: #6659b0;
+  text-align: center;
+  color: #ffffff;
+}
