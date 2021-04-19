@@ -1,0 +1,27 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "source": "pages/CarManager/index"
+    },
+    {
+      "path": "/carrecord",
+      "source": "pages/CarRecord/index"
+    },
+    {
+      "path": "/cardestail",
+      "source": "pages/CarDestail/index"
+    },
+    {
+      "path": "/carresult",
+      "source": "pages/CarResult/index"
+    },
+    {
+      "path": "/carpay",
+      "source": "pages/CarPay/index"
+    }
+  ],
+  "window": {
+    "title": "Rax App"
+  }
+}

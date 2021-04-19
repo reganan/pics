@@ -1,0 +1,7 @@
+{
+  "targets": [
+    "wechat-miniprogram"
+  ],
+  "plugins": [
+  ]
+}

@@ -1,0 +1,154 @@
+.container{
+  background: #F9F9F9;
+  height: 100vh;
+}
+
+.topPane{
+  margin-top: 37rpx;
+  margin-left: 30rpx;
+  width: 690rpx;
+  height: 380rpx;
+  background: #FFFFFF;
+  border-radius: 14rpx;
+}
+.topPaneTitle{
+  margin-top: 61rpx;
+  text-align: center;
+  width: 750rpx;
+  height: 36rpx;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 36rpx;
+}
+
+.topPaneSubTitle{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  width: 750rpx;
+  height: 84rpx;
+  font-size: 60rpx;
+  font-weight: 400;
+  color: #6659B0;
+  line-height: 84rpx;
+}
+.topPaneline{
+  margin-top: 40rpx;
+  margin-left: 17rpx;
+  width: 657rpx;
+  height: 3rpx;
+  background-color: #E3E3E3;
+}
+
+.topPaneInfo{
+  margin-top: 28rpx;
+  margin-left: 28rpx;
+  width: 634rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 30rpx;
+}
+
+.centerPane{
+  margin-top: 40rpx;
+  margin-left: 30rpx;
+  width: 690rpx;
+  height: 349rpx;
+  background: #FFFFFF;
+  border-radius: 14rpx;
+}
+
+.centerPaneline{
+  margin-left: 17rpx;
+  width: 657rpx;
+  height: 3rpx;
+  background-color: #E3E3E3;
+}
+
+.centerPaneInfo{
+  margin-left: 28rpx;
+  width: 634rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 110rpx;
+}
+
+.bottomPane{
+  margin-top: 40rpx;
+  margin-left: 30rpx;
+  width: 690rpx;
+  height: 267rpx;
+  background: #FFFFFF;
+  border-radius: 14rpx;
+}
+
+.bottomPaneInfo{
+  margin-left: 28rpx;
+  width: 634rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+  line-height: 88rpx;
+}
+
+.payPane{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+}
+
+.payTopPane{
+  width: 750rpx;
+  background: #FDF9ED;
+  height: 70rpx;
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #A7874A;
+  line-height: 70rpx;
+  text-align: center;
+}
+.payBottomPane{
+  width: 750rpx;
+  height: 98rpx;
+  background: #25282F;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.payBottomLeftPane{
+  flex: 1;
+  height: 98rpx;
+  background: #EEEEEE;
+  font-size: 32rpx;
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+  line-height: 98rpx;
+}
+
+.payBottomRightPane{
+  flex: 1;
+  height: 98rpx;
+  background: #6659B0;
+  font-size: 32rpx;
+  font-weight: 400;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 98rpx;
+}

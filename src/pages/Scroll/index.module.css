@@ -1,0 +1,20 @@
+.container{
+  padding: 0rpx;
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: 1rpx;
+  margin-left: 0rpx;
+  margin-right: 0rpx;
+  margin-bottom: 0rpx;
+}
+.button{
+  margin: 7rpx;
+  padding: 5rpx;
+  align-items: center;
+  background-color: #eaeaea;
+  border-radius: 3rpx;
+}
+.box {
+  width: 290rpx;
+  height: 393rpx;
+}
